@@ -1,0 +1,3 @@
+The Cutter–Sanborn number (commonly called a Cutter number) is an alphanumeric code, derived from an author’s name stem, used in library cataloging to create unique, shelf-orderable call numbers and to disambiguate similar headings. It is most often applied within classification schemes to order items by author or title within a subject area.
+
+[`csan`](https://github.com/veralvx/csan) is a CLI tool that generates a cutter-sanborn identifier, given a first and a last name
