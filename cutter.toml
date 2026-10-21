@@ -607,7 +607,7 @@
 "Asti" = 854
 "Astl" = 855
 "Asto" = 856
-"Aston" = 857
+"Aston, M." = 857
 "Astor" = 858
 "Astr" = 859
 "Asu" = 861
@@ -1209,7 +1209,7 @@
 "Bolo" = 693
 "Bolt" = 694
 "Bom" = 695
-"Boml" = 696
+"Bomi" = 696
 "Bon" = 697
 "Bonap" = 698
 "Bonar" = 699
@@ -1774,7 +1774,7 @@
 "Chastil" = 491
 "Chat" = 492
 "Chath" = 493
-"Chathi" = 494
+"Chati" = 494
 "Chatt" = 495
 "Chau" = 496
 "Chaul" = 497
@@ -2199,7 +2199,7 @@
 "Dael" = 123
 "Daf" = 124
 "Dag" = 125
-"Dagi" = 126
+"Dagl" = 126
 "Dago" = 127
 "Dagu" = 128
 "Dah" = 129
@@ -2471,7 +2471,7 @@
 "Desgr" = 455
 "Desh" = 456
 "Desi" = 457
-"Desit" = 458
+"Desir" = 458
 "Desj" = 459
 "Desl" = 461
 "Deslo" = 462
@@ -2924,7 +2924,7 @@
 "Ech" = 18
 "Eck" = 19
 "Ed" = 21
-"Ede" = 22
+"Eden" = 22
 "Edg" = 23
 "Edm" = 24
 "Edw" = 25
@@ -3973,7 +3973,7 @@
 "Gherard" = 414
 "Gherardi" = 415
 "Gherardo" = 416
-"Ghert" = 417
+"Gherl" = 417
 "Ghes" = 418
 "Ghey" = 419
 "Ghez" = 421
@@ -4128,7 +4128,7 @@
 "Goep" = 596
 "Goer" = 597
 "Goes" = 598
-"Goest" = 599
+"Goet" = 599
 "Goetz" = 611
 "Gof" = 612
 "Gog" = 613
@@ -4215,7 +4215,7 @@
 "Gour" = 713
 "Gourd" = 714
 "Gourg" = 715
-"Gouri" = 716
+"Gourl" = 716
 "Gous" = 717
 "Gout" = 718
 "Gouv" = 719
@@ -4610,7 +4610,7 @@
 "Haro" = 292
 "Harp" = 293
 "Harper, G." = 294
-"Harper, W." = 295
+"Harper, M." = 295
 "Harr" = 296
 "Harri" = 297
 "Harriman, M." = 298
@@ -5297,6 +5297,7 @@
 "Jef" = 45
 "Jeffre" = 46
 "Jeffri" = 47
+"Jel" = 48
 "Jem" = 49
 "Jen" = 51
 "Jenk" = 52
@@ -5472,7 +5473,7 @@
 "Lafay" = 161
 "Lafe" = 162
 "Laff" = 163
-"Lafl" = 164
+"Lafi" = 164
 "Lafo" = 165
 "Lafont" = 166
 "Lafor" = 167
@@ -5773,7 +5774,7 @@
 "Lejo" = 535
 "Lek" = 536
 "Lel" = 537
-"Leland" = 538
+"Leland, M." = 538
 "Lele" = 539
 "Leli" = 541
 "Lell" = 542
@@ -6422,7 +6423,7 @@
 "Matth" = 436
 "Matthew" = 437
 "Matthews" = 438
-"Matthews, C." = 439
+"Matthews, G." = 439
 "Matthews, M." = 441
 "Matthews, S." = 442
 "Matthi" = 443
@@ -7693,8 +7694,8 @@
 "Ox" = 98
 "Oz" = 99
 "Pa" = 111
-"Paac" = 112
-"Paacu" = 113
+"Pab" = 112
+"Pac" = 113
 "Pacc" = 114
 "Pace" = 115
 "Pach" = 116
@@ -7841,7 +7842,7 @@
 "Paso" = 283
 "Pasq" = 284
 "Pass" = 285
-"Passar" = 286
+"Passan" = 286
 "Passe" = 287
 "Passi" = 288
 "Passo" = 289
@@ -8789,8 +8790,8 @@
 "Ridley, M." = 546
 "Rido" = 547
 "Rie" = 548
-"Ried" = 549
-"Riedes" = 551
+"Riec" = 549
+"Ried" = 551
 "Riedi" = 552
 "Rief" = 553
 "Rieg" = 554
@@ -9001,7 +9002,7 @@
 "Rosem" = 812
 "Rosen" = 813
 "Rosenk" = 814
-"Rosenn" = 815
+"Rosenm" = 815
 "Rosenw" = 816
 "Roset" = 817
 "Rosew" = 818
@@ -9107,6 +9108,7 @@
 "Run" = 939
 "Rund" = 941
 "Rung" = 942
+"Runn" = 943
 "Ruo" = 944
 "Rup" = 945
 "Rupp" = 946
@@ -9157,6 +9159,7 @@
 "Rys" = 996
 "Ryt" = 997
 "Ryv" = 998
+"Rz" = 999
 "Sa" = 111
 "Saar" = 112
 "Sab" = 113
@@ -9605,7 +9608,7 @@
 "Smith, M." = 655
 "Smith, O." = 656
 "Smith, R." = 657
-"Smith, Robert" = 658
+"Smith, Rob't" = 658
 "Smith, S." = 659
 "Smith, Sol" = 661
 "Smith, T." = 662
@@ -9638,7 +9641,7 @@
 "Soly" = 692
 "Som" = 693
 "Somer" = 694
-"Somers" = 695
+"Somerse" = 695
 "Somerv" = 696
 "Somm" = 697
 "Son" = 698
@@ -10643,7 +10646,7 @@
 "Ulf" = 38
 "Uli" = 39
 "Ull" = 41
-"Ulle" = 42
+"Ullo" = 42
 "Ulm" = 43
 "Ulp" = 44
 "Ulr" = 45
@@ -10908,7 +10911,7 @@
 "Vaug" = 363
 "Vaughan" = 364
 "Vaughan, C." = 365
-"Vaughan, G." = 366
+"Vaughan, F." = 366
 "Vaughan, J." = 367
 "Vaughan, M." = 368
 "Vaughan, S." = 369
@@ -12087,7 +12090,7 @@
 "Worcester, S." = 923
 "Word" = 924
 "Wordsw" = 925
-"Wordsworth, M." = 926
+"Wordsworth, S." = 926
 "Worl" = 927
 "Worm" = 928
 "Woro" = 929
@@ -12161,7 +12164,7 @@
 "Xen" = 5
 "Xer" = 6
 "Xl" = 7
-"Xn" = 8
+"Xu" = 8
 "Xy" = 9
 "Ya" = 11
 "Yac" = 12
@@ -12301,7 +12304,7 @@
 "Zim" = 71
 "Zimmer" = 72
 "Zimmermann" = 73
-"Zimmermann, F." = 74
+"Zimmermann, G." = 74
 "Zimmermann, M." = 75
 "Zimmermann, S." = 76
 "Zin" = 77
